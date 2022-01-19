@@ -6,5 +6,9 @@ public class MemberService {
 		//afawf
 		
 	}
+	public void selectbypk(){
+	}
+	public void update(){
+	}
 
 }
