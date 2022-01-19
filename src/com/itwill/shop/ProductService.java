@@ -5,4 +5,6 @@ private ProductDao productDao;
 public void productService() {
 	
 }
+public void insert(){
+}
 }
