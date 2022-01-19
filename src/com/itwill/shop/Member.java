@@ -5,6 +5,12 @@ public class Member {
 	public Member() {
 		// TODO Auto-generated constructor stub
 	}
+	public int getNo() {
+		return no;
+	}
+	public void setNo(int no) {
+		this.no = no;
+	}
 	
 
 }
